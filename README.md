@@ -1,3 +1,4 @@
-C'est ici qu'on raconte comment ça marche
+Bring people collaborating and solving issues on the website
 
-Here we want to bring people collaborating and solving issues on the website
+We will use issues to target problem on our website.
+
